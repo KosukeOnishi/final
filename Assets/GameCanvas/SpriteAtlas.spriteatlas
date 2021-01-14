@@ -37,11 +37,19 @@ SpriteAtlas:
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
   - {fileID: 21300000, guid: b7fd20551d34df04684ac005d1b54c14, type: 3}
+  - {fileID: 21300000, guid: 0404b026f517e4176851a693414da762, type: 3}
+  - {fileID: 21300000, guid: 6b8fa7293c0e44d9bbb6d7198369c31a, type: 3}
+  - {fileID: 21300000, guid: b6068d390d31942a7adfbdd87866f635, type: 3}
   - {fileID: 21300000, guid: 3212428bff945a84cb1e2c2aaf887e2d, type: 3}
   - {fileID: 21300000, guid: 42005afb256654d4db0ccb3704572942, type: 3}
+  - {fileID: 21300000, guid: 670e639c4bc3f4a9696a545de2c2e020, type: 3}
   m_PackedSpriteNamesToIndex:
   - BallYellow
+  - Example1
+  - Example2
+  - LightsOutLogo
   - BlueSky
   - BallRed
+  - DoneIcon
   m_Tag: SpriteAtlas
   m_IsVariant: 0
